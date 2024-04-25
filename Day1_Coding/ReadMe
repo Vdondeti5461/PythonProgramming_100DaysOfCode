@@ -1,0 +1,13 @@
+Check Python Versions -
+$ python --version or python -V
+
+pip is a python package manager and used to install multiple software libraries required for application and PYPI is python index package which is used to fetch those libraries using pip
+
+Command  to install - pip install package_name
+command to uninstall - pip uninstall package_name
+
+
+Integrate Pycharm with GITHUB using login or token.
+Check Pycharm documentation , How can we integrate pycharm with GITHUB and create a Project and push the directory and create first program and commit the changes in local pycharm to Github
+
+Shortcut - Open setting of Pycharm ->  Command + , (comma) # Note command shortcuts and development on MAC System
