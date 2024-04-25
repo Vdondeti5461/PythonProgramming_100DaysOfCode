@@ -11,6 +11,24 @@ print(" Hello Cats ! Welcome TO Python Programming")
 # inside the quotation marks We have a sequence of characters - Strings in programming
 
 
+# Newline
+
+print("Hello World! \nHellow World! \nHello World!")
+
+# String concatenation
+print("Hello" + " " + "Angela")
+
+# spaces in double quotes consider as a space and spaces are very important in python programming
+# indentation plays important role in programming
+
+# Fix the code below 👇
+#below are the answers of concepts learned
+
+print("Day 1 - String Manipulation")
+print('String Concatenation is done with the "+" sign.')
+print('e.g. print("Hello " + "world")')
+print("New lines can be created with a backslash and n.")
+
 
 
 
