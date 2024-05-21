@@ -9,3 +9,4 @@ BMI = weight_as_int / (height_as_float * height_as_float)
 bmi_as_int = int(BMI)
 
 print(bmi_as_int)
+
