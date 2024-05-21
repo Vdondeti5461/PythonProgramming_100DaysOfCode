@@ -4,4 +4,4 @@ isWinning = True
 
 #using f string to use all variables in single line
 
-print(f"Your score is {score} , your height is {height} , you are winning is {isWinning}")
+print(f"Your score is {score} , your height is {height} , you are winning is {isWinning}.")
