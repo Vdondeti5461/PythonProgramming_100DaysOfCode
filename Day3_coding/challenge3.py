@@ -26,3 +26,6 @@ if height >= 120:
 
 else:
     print("Sorry , You have to grow taller before you can ride.")
+
+
+#implemented multiple if conditions and also if/elif/else
